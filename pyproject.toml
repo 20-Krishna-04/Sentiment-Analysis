@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "social-media-nlp"
 version = "0.1.0"
-description = "Applications of Data Sciente to Marketing: Sentiment Analysis."
+description = "Social Media: NLP Sentiment Analysis."
 authors = ["acampillos"]
 packages = [{ include = "social_media_nlp", from = "src" },]
 readme = "README.md"
