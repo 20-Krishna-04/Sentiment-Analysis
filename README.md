@@ -194,10 +194,3 @@ To visualize the logs from MLFlow used in the training and hyperparameter tuning
     ├── poetry.lock
     ├── pyproject.toml                          <- Project dependencies.
     └── README.md
-
-
-
-
-* Jiang, A. Q., Sablayrolles, A., Mensch, A., Bamford, C., Chaplot, D. S., de las Casas, D., Bressand, F., Lengyel, G., Lample, G., Saulnier, L., et al. (2023). Mistral 7B. arXiv. https://arxiv.org/abs/2310.06825
-
-* Gemma Team, Mesnard, T., Hardin, C., Dadashi, R., Bhupatiraju, S., Pathak, S., Sifre, L., Rivière, M., Kale, M. S., Love, J., et al. (2024). Gemma: Open models based on Gemini research and technology. arXiv. https://arxiv.org/abs/2403.08295
